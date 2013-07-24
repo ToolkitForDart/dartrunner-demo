@@ -18,6 +18,13 @@ The game assets have been designed in Flash Professional CC (<https://creative.a
 
 See **Runner.fla**.
 
+### Optimization hints
+
+* Complex elements/filters (coulds, backgrounds, bonus, HUD shadow) have been flatten as images (right-click > Convert to Bitmap),
+* The HUD has "Cache as Bitmap" enabled to flatten the static part at runtime (symbol instance Properties),
+* The character parts (head, arm, etc.) are all vectors and have "Cache as Bitmap" enabled (on the first occurence of the element) to be cached at runtime,
+* White fade transition is achieved using a large white shape - not by fading the whole scene.
+
 ## Publish using Toolkit for Dart
 
 Toolkit for Dart (<http://toolkitfordart.github.io>) is a Flash Professional extension which will publish a FLA document into a Dart project leveraging the StageXL Dart library.
