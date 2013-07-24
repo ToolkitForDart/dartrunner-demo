@@ -2,6 +2,6 @@ name: Runner
 description: Dart StageXL export from Runner
 dependencies:
   browser: any
-  stagexl:
-    path: /Users/elsass/Documents/dev/dart/libraries/StageXL
   meta: any
+  stagexl:
+    git: https://github.com/bp74/StageXL.git
