@@ -25,7 +25,8 @@ See **Runner.fla**.
 * Complex elements/filters (coulds, backgrounds, bonus, HUD shadow) have been flatten as images (right-click > Convert to Bitmap),
 * The HUD has "Cache as Bitmap" enabled to flatten the static part at runtime (symbol instance Properties),
 * The character parts (head, arm, etc.) are all vectors and have "Cache as Bitmap" enabled (on the first occurence of the element) to be cached at runtime,
-* White fade transition is achieved using a large white shape - not by fading the whole scene.
+* White fade transition is achieved using a large white shape - not by fading the whole scene,
+* The level backgrounds are retina capables, thanks to StageXL automatically handling 'image@1x' to 'image@2x' substitution.
 
 ## Publish using Toolkit for Dart
 
