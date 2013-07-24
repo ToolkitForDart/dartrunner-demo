@@ -1,0 +1,51 @@
+{"frames": {
+
+"EnergyDring_bmp":
+{
+	"frame": {"x":808,"y":0,"w":85,"h":182},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":85,"h":182},
+	"sourceSize": {"w":85,"h":182}
+},
+"btplay.png":
+{
+	"frame": {"x":450,"y":356,"w":283,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":283,"h":100},
+	"sourceSize": {"w":283,"h":100}
+},
+"cloud.png":
+{
+	"frame": {"x":0,"y":356,"w":448,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":448,"h":100},
+	"sourceSize": {"w":448,"h":100}
+},
+"popup-bg.png":
+{
+	"frame": {"x":0,"y":0,"w":806,"h":354},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":806,"h":354},
+	"sourceSize": {"w":806,"h":354}
+},
+"star":
+{
+	"frame": {"x":735,"y":356,"w":122,"h":138},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":122,"h":138},
+	"sourceSize": {"w":122,"h":138}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "13.1.0.81",
+	"image": "_atlas_0.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1"
+}
+}
