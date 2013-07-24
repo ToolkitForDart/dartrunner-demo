@@ -39,7 +39,7 @@ Toolkit for Dart (<http://toolkitfordart.github.io>) is a Flash Professional ext
 ## Run in Dart Editor
 
 * Install and launch Dart Editor (<http://www.dartlang.org/tools/>),
-* Drag and drop the Dart project folder from Finder/Explorer in Dart Editor's Files panel,
+* Drag and drop **Runner-dart/** folder from Finder/Explorer in Dart Editor's Files panel,
 * Select **pubspec.yaml** in Dart Editor and right-click > Pub Update to download/update StageXL library,
 * Open **web/index.dart**
 * Press Cmd/Ctrl + R to run the project in Chromium which includes Dart VM
