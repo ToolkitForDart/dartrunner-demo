@@ -6,6 +6,8 @@ Dart Runner is a game demonstrating the use of:
 * Toolkit for Dart to generate a Dart project
 * Leveraging StageXL as a Flash-like API rendering in the HTML5 Canvas.
 
+Play now: <http://toolkitfordart.github.io/demo/>
+
 
 ## Flash Pro for the design
 
